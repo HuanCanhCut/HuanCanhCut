@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huấn Cánh Cụt</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am front-end developer</h3>
 <img
     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
     alt="Coding"
