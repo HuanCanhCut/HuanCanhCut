@@ -23,12 +23,6 @@
 -   💬 Ask me about **ReactJS**
 -   📫 How to reach me **tronghuanxxx@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <code><a href="https://www.facebook.com/HuanPG05"><img width="30px" src="./image/facebook.png" title="Facebook"/></a></code>
-    <code><a href="mailto:tronghuanxxx@gmail.com"><img width="30px" src="./image/gmail.png" title="Gmail"/></a></code>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
@@ -143,8 +137,9 @@
 </div>
 
 <br />
+<br />
 
-![divider](./img/divider.gif)
+![divider](./image/divider.gif)
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
