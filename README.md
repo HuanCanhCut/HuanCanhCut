@@ -18,10 +18,10 @@
     />
 </p>
 
-- 🌱 I’m currently learning **ReactJS, Express.js**
-- 👨‍💻 All of my projects are available at [https://github.com/HuanCanhCut](https://github.com/HuanCanhCut)
-- 💬 Ask me about **ReactJS**
-- 📫 How to reach me **tronghuanxxx@gmail.com**
+-   🌱 I’m currently learning **ReactJS, Express.js**
+-   👨‍💻 All of my projects are available at [https://github.com/HuanCanhCut](https://github.com/HuanCanhCut)
+-   💬 Ask me about **ReactJS**
+-   📫 How to reach me **tronghuanxxx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -128,22 +128,22 @@
 </p>
 
 <br/>
-<p></p>
-
-<p align="center">
-<a href="https://github.com/ariscybertech">
- <img src="https://github-readme-stats.vercel.app/api?username=HuanCanhCut&show_icons=true&layout=compact&theme=tokyonight&line_height=27" alt="HuanCanhCut's github stats"/>
-</p>
-
 <br/>
 
-<p align="center">
-    <a href="https://github.com/ariscybertech">
-        <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuanCanhCut&layout=compact&theme=tokyonight&hide_langs_below=1"
-        />
-    </a>
-</p>
+<div align="center">
+    
+  <a href="#" title="Tien Dat Tran's Github Stats">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=HuanCanhCut&theme=tokyonight&show_icons=true&count_private=true&border_color=61dafb">
+  </a>
+
+  <a href="#" title="Tien Dat Tran's Most Used Languages">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuanCanhCut&theme=tokyonight&count_private=true&layout=compact&langs_count=6&border_color=61dafb">
+  </a>
+  
+  <br>
+</div>
+
+</div>
 
 <br />
 
