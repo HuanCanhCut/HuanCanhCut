@@ -9,7 +9,7 @@
         src="./image/Developer.gif"
         alt="Coding"
         align="right"
-        width="200"
+        width="300"
     />
     
 <p align="left">
