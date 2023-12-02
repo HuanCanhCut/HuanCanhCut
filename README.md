@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Huấn Cánh Cụt</h1>
-<h3 align="center">I am a front-end developer</h3>
+<p align="center">
+    <img
+        src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Front-end+Developer+from+Viet+Nam;Nice+to+meet+you...!"
+    />
+</p>
 <img
     src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
     alt="Coding"
     align="right"
-    width="400"
+    width="300"
 />
 
 <p align="left">
@@ -21,18 +25,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://fb.com/HuanPG05" target="blank"
-        ><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="tronghuan"
-            height="30"
-            width="40"
-    /></a>
+    <code><a href="https://www.facebook.com/HuanPG05"><img width="30px" src="./image/facebook.png" title="Facebook"/></a></code>
+    <code><a href="mailto:tronghuanxxx@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
     </a>
@@ -129,12 +127,24 @@
     </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+<br/>
+<p></p>
 
-<p>
-    <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=huancanhcut&show_icons=true&locale=en&layout=compact"
-        alt="huancanhcut"
-    />
+<p align="center">
+<a href="https://github.com/ariscybertech">
+ <img src="https://github-readme-stats.vercel.app/api?username=HuanCanhCut&show_icons=true&layout=compact&theme=tokyonight&line_height=27" alt="HuanCanhCut's github stats"/>
 </p>
+
+<br/>
+
+<p align="center">
+    <a href="https://github.com/ariscybertech">
+        <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuanCanhCut&layout=compact&theme=tokyonight&hide_langs_below=1"
+        />
+    </a>
+</p>
+
+<br />
+
+![divider](./images/divider.gif)
