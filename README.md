@@ -4,24 +4,30 @@
         src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Front-end+Developer+from+Viet+Nam;Nice+to+meet+you...!"
     />
 </p>
-<img
-    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-    alt="Coding"
-    align="right"
-    width="300"
-/>
-
-<p align="left">
+<div align="left">
     <img
-        src="https://komarev.com/ghpvc/?username=huancanhcut&label=Profile%20views&color=0e75b6&style=flat"
-        alt="huancanhcut"
+        src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+        alt="Coding"
+        align="right"
+        width="200"
     />
-</p>
+    
+<p align="left">
+        <img
+            src="https://komarev.com/ghpvc/?username=huancanhcut&label=Profile%20views&color=0e75b6&style=flat"
+            alt="huancanhcut"
+        />
+    </p>
 
+-   🐧 My name is Trong Huan, I'm from **Hung Yen, VietNam**
 -   🌱 I’m currently learning **ReactJS, Express.js**
 -   👨‍💻 All of my projects are available at [https://github.com/HuanCanhCut](https://github.com/HuanCanhCut)
 -   💬 Ask me about **ReactJS**
 -   📫 How to reach me **tronghuanxxx@gmail.com**
+</div>
+
+<br/>
+<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
