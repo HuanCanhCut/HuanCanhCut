@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <code><a href="https://www.facebook.com/HuanPG05"><img width="30px" src="./image/facebook.png" title="Facebook"/></a></code>
-    <code><a href="mailto:tronghuanxxx@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
+    <code><a href="mailto:tronghuanxxx@gmail.com"><img width="30px" src="./image/gmail.png" title="Gmail"/></a></code>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
