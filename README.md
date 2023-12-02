@@ -131,9 +131,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
-<p align="right">
+<p>
     <img
-        align="left"
+        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=huancanhcut&show_icons=true&locale=en&layout=compact"
         alt="huancanhcut"
     />
