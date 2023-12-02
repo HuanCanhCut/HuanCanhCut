@@ -128,18 +128,15 @@
 </p>
 
 <br/>
-<br/>
 
 <div align="center">
-    
   <a href="#" title="Tien Dat Tran's Github Stats">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=HuanCanhCut&theme=tokyonight&show_icons=true&count_private=true&border_color=61dafb">
   </a>
 
-  <a href="#" title="Tien Dat Tran's Most Used Languages">
+<a href="#" title="Tien Dat Tran's Most Used Languages">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuanCanhCut&theme=tokyonight&count_private=true&layout=compact&langs_count=6&border_color=61dafb">
   </a>
-  
   <br>
 </div>
 
@@ -147,4 +144,13 @@
 
 <br />
 
-![divider](./images/divider.gif)
+![divider](./img/divider.gif)
+
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <p align="center">
+      <code><a href="https://www.facebook.com/HuanPG05"><img width="40px" src="./image/Facebook.png" title="Linkedin"/></a></code>
+      <code><a href="mailto:tronghuanxxx@gmail.com"><img width="40px" src="./image/Email.png" title="trantiendat.dev@gmail.com"/></a></code>
+  </p>
+  <img src="./image/wave.png#gh-dark-mode-only">
+</p>
