@@ -14,9 +14,10 @@
     />
 </p>
 
-- 🌱 I’m currently learning **ReactJS, Express.js** - 👨‍💻 All of my projects are available at
-[https://github.com/HuanCanhCut](https://github.com/HuanCanhCut) - 💬 Ask me about **ReactJS** - 📫 How to reach me
-**tronghuanxxx@gmail.com**
+- 🌱 I’m currently learning **ReactJS, Express.js**
+- 👨‍💻 All of my projects are available at [https://github.com/HuanCanhCut](https://github.com/HuanCanhCut)
+- 💬 Ask me about **ReactJS**
+- 📫 How to reach me **tronghuanxxx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
