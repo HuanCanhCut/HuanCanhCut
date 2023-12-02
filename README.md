@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 <h1 align="center">Hi 👋, I'm Huấn Cánh Cụt</h1>
 <h3 align="center">I am a front-end developer</h3>
 <img
