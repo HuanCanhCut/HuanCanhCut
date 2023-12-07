@@ -23,7 +23,6 @@
 -   🌱 I’m currently learning **ReactJS, Express.js**
 -   👨‍💻 All of my projects are available at [https://github.com/HuanCanhCut](https://github.com/HuanCanhCut)
 -   💬 Ask me about **ReactJS**
--   📫 How to reach me **tronghuanxxx@gmail.com**
 </div>
 
 <br/>
