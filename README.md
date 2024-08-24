@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huấn Cánh Cụt</h1>
 <p align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Front-end+Developer+from+Viet+Nam;Nice+to+meet+you...!"
+        src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Web+Developer+from+Viet+Nam;Nice+to+meet+you...!"
     />
 </p>
 <div align="left">
@@ -19,10 +19,10 @@
         />
     </p>
 
--   🐧 My name is Trong Huan, I'm from **Hung Yen, VietNam**
--   🌱 I’m currently learning  **ExpressJS, TailwindCss** and **NextJS**
--   👨‍💻 All of my projects are available at [https://github.com/HuanCanhCut](https://github.com/HuanCanhCut)
--   💬 Ask me about **ReactJS**
+- 🐧 My name is Trong Huan, I'm from **Hung Yen, VietNam**
+- 🌱 I’m currently learning **ExpressJS, TailwindCss** and **NextJS**
+- 👨‍💻 All of my projects are available at [https://github.com/HuanCanhCut](https://github.com/HuanCanhCut)
+- 💬 Ask me about **ReactJS**
 </div>
 
 <br/>
@@ -92,6 +92,10 @@
             height="40"
         />
     </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
