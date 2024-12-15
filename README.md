@@ -128,7 +128,7 @@
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
   <p align="center">
-      <code><a href="https://www.facebook.com/HuanCanhCut" target="_blank"><img width="40px" src="./image/Facebook.png" title="Linkedin"/></a></code>
+      <code><a href="https://www.facebook.com/HuanCanhCut" target="_blank"><img width="40px" src="./image/Facebook.png" title="Facebook"/></a></code>
       <code><a href="mailto:tronghuanxxx@gmail.com" target="_blank"><img width="40px" src="./image/Email.png" title="tronghuanxxx@gmail.com"/></a></code>
   </p>
   <img src="./image/wave.png#gh-dark-mode-only">
