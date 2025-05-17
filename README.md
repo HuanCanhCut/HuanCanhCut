@@ -19,10 +19,10 @@
         />
     </p>
 
-- 🐧 My name is Cao Trọng Huấn, I'm from **Hung Yen, VietNam**
-- 🌱 I’m currently learning **ExpressJS, TailwindCss** and **NextJS**
-- 👨‍💻 All of my projects are available at [https://github.com/HuanCanhCut](https://github.com/HuanCanhCut)
-- 💬 Ask me about **ReactJS**
+- 🐧 My name is Cao Trọng Huấn, I'm from **Hung Yen, VietNam**.
+- 🌱 I’m currently learning **ExpressJS, TailwindCss** and **NextJS**.
+- 👨‍💻 All of my projects are available at [https://github.com/HuanCanhCut](https://github.com/HuanCanhCut).
+- 💬 Ask me about **ReactJS**.
 </div>
 
 <br/>
