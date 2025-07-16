@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Huan Canh Cut</h1>
+<h1 align="center">Hi 👋, I'm Huấn Cánh Cụt 🐧</h1>
 <p align="center">
     <img
         src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Web+developer+from+Viet+Nam;Nice+to+meet+you...!"
