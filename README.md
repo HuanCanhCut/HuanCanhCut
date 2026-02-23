@@ -147,14 +147,8 @@
 <br/>
 
 <div align="center">
-  <a href="#" title="Trong Huan Github Stats">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=HuanCanhCut&theme=tokyonight&show_icons=true&count_private=true&border_color=61dafb">
-  </a>
-
-<a href="#" title="Trong Huan Most Used Languages">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuanCanhCut&theme=tokyonight&count_private=true&layout=compact&langs_count=6&border_color=61dafb">
-  </a>
-  <br>
+  <img align="right" width="434" src="./profile/stats.svg" />
+  <img width="315" src="./profile/top-langs.svg" />
 </div>
  
 </div>
