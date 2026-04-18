@@ -29,113 +29,27 @@
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-            alt="sass"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-            alt="redux"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img 
-            src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" 
-            alt="nextjs" 
-            width="40" 
-            height="40"
-        /> 
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
-            alt="nodejs" 
-            width="40" 
-            height="40"/> 
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <img 
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
-            alt="express"
-            width="40" 
-            height="40"
-        /> 
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img    
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  
-            alt="mysql" 
-            width="40" 
-            height="40"
-        /> 
-    </a> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">      
-        <img 
-            src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
-            alt="mssql" 
-            width="40" 
-            height="40"/> 
-        </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-            alt="postman"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-</p>
+<table align="center">
+  <tr>
+    <td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /></a></td>
+    <td><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /></a></td>
+    <td><a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" /></a></td>
+    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></a></td>
+    <td><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" /></a></td>
+    <td><a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /></a></td>
+    <td><a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" /></a></td>
+    <td><a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" /></a></td>
+  </tr>
+    <td><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" /></a></td>
+    <td><a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" /></a></td>
+    <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /></a></td>
+    <td><a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" /></a></td>
+    <td><a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /></a></td>
+    <td><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /></a></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 <br/>
 
