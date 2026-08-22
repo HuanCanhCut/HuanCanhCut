@@ -46,7 +46,7 @@
     <td><a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" /></a></td>
     <td><a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /></a></td>
     <td><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /></a></td>
-    <td><a href="https://socket.io/"><img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://d13vhgz95ul9hy.cloudfront.net/blog/wp-content/uploads/2018/04/socket.io_.png)" width="40" /></a></td>
+    <td><a href="https://socket.io/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW8HEdCYrK7RgFyLMcT_6z4_ctVW8mt7Aw5pLzEB5OIA&s=10" width="40" /></a></td>
     <td></td>
   </tr>
 </table>
