@@ -63,15 +63,15 @@
 <br/>
 
 <div align="center">
+     <img
+        width="315"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=HuanCanhCut&theme=tokyonight&count_private=true&layout=compact&langs_count=6&border_color=61dafb"
+        alt="Top Languages"
+    />
     <img
         width="434"
         src="https://github-stats-extended.vercel.app/api?username=HuanCanhCut&theme=tokyonight&show_icons=true&count_private=true&border_color=61dafb"
         alt="GitHub Stats"
-    />
-    <img
-        width="315"
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=HuanCanhCut&theme=tokyonight&count_private=true&layout=compact&langs_count=6&border_color=61dafb"
-        alt="Top Languages"
     />
 </div>
 
